@@ -17,6 +17,14 @@ The server sends this pack automatically when you join, so you normally don't ne
 - **Frost armour and sword** textures and models
 - **Timeless Heisenberg** items (32x32): Cocaine Bag, Cocaine Powder, Shrooms, Weed and Crystal Meth
 
+## Timeless Heisenberg plugin
+
+**[TimelessHeisenberg-1.2.0.jar](https://github.com/weee64253-debug/Timeless-SMP/releases/download/v1/TimelessHeisenberg-1.2.0.jar)** (Paper 26.3, Java 25)
+
+- SHA-1: `14718d2dc942c71cade051bd0f12893b36a769b6`
+- SHA-256: `9552ea88852523d552fef72545b0cc83df0be8271387c08ad7511352045f685a`
+- Changes in 1.2.0: lore text cleaned up; Cocaine now gives Speed I for the whole 30 s high, still paired with Weakness. Textures are unchanged, so `pack.4.zip` is still the right pack.
+
 ## Older versions
 All files are on the [v1 release](https://github.com/weee64253-debug/Timeless-SMP/releases/tag/v1). Only `pack.4.zip` is current. The older files are kept for reference:
 
