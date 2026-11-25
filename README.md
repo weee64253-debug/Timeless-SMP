@@ -19,12 +19,12 @@ The server sends this pack automatically when you join, so you normally don't ne
 
 ## Timeless Heisenberg plugin
 
-**[TimelessHeisenberg-1.3.0.jar](https://github.com/weee64253-debug/Timeless-SMP/releases/download/v1/TimelessHeisenberg-1.3.0.jar)** (Paper 26.3, Java 25)
+**[TimelessHeisenberg-1.4.0.jar](https://github.com/weee64253-debug/Timeless-SMP/releases/download/v1/TimelessHeisenberg-1.4.0.jar)** (Paper 26.3, Java 25)
 
-- SHA-1: `0e29bc47c5136407f71963f489550344b8e8b428`
-- SHA-256: `668ada80e9ecda69b5cac935132b0e37af2a1b6508a9ae50cce9dbde562cdffd`
-- Changes in 1.3.0: one item removed (its recipe, effects and texture are gone). Use it with `pack.5.zip`.
-- TimelessHeisenberg 1.4.0 (brewed + cooked Crystal Meth with purity, Liquid Meth, Narcan, recipe book) is staged on the Season 5 server and uses `pack.6.zip`. `pack.6.zip` also works with 1.3.0.
+- SHA-1: `5f8f505b6008682ed90e54bbd002dd6f891d4650`
+- SHA-256: `511fe5f334a04784001993802a810b5c149e61e2bed3f9cfd77deaee5d5bbc54`
+- Changes in 1.4.0: Crystal Meth is brewed (water + prismarine -> Meth Base, optional glowstone/diamond refining, + amethyst -> Liquid Meth) and then cooked in a furnace, smoker or blast furnace, with a real purity shown on the crystal; new Narcan item; item descriptions trimmed to the name; all crafting and cooking recipes appear in the recipe book. Use it with `pack.6.zip`.
+- Previous build: [TimelessHeisenberg-1.3.0.jar](https://github.com/weee64253-debug/Timeless-SMP/releases/download/v1/TimelessHeisenberg-1.3.0.jar), SHA-1 `0e29bc47c5136407f71963f489550344b8e8b428`
 - Older plugin build: [TimelessHeisenberg-1.2.0.jar](https://github.com/weee64253-debug/Timeless-SMP/releases/download/v1/TimelessHeisenberg-1.2.0.jar), SHA-1 `14718d2dc942c71cade051bd0f12893b36a769b6`
 
 ## Older packs
